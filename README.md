@@ -85,4 +85,5 @@ Le premier ingénieur supervise directement deux employés : le deuxième ingén
 
 ## Auteur
 Projet réalisé dans le cadre des travaux pratiques de Java.
-![Uploading image.png…]()
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a54db835-308e-416c-b18d-ea44692bd9a1" />
+
